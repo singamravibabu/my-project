@@ -5,3 +5,5 @@
 ### Folders
 
 ### Languages / Tools
+
+### Blueprint of the project
