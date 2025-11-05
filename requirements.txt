@@ -6,9 +6,3 @@ plotly
 bokeh
 streamlit
 scikit-learn
-tensorflow
-keras
-pytorch
-flask
-django
-djangorestframework
